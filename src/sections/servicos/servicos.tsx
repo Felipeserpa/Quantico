@@ -21,6 +21,16 @@ import adesivo15 from '../../assets/images/adesivo vinil/adesivo ons.jpg';
 import adesivo16 from '../../assets/images/adesivo vinil/adesivo ons 3.jpg';
 import adesivo17 from '../../assets/images/adesivo vinil/adesivo sapore.jpg';
 
+import adesivo18 from '../../assets/images/adesivo vinil/adesivo (2).jpeg';
+import adesivo19 from '../../assets/images/adesivo vinil/adesivos.jpeg';
+import adesivo20 from '../../assets/images/adesivo vinil/adesivo.jpeg';
+import adesivo21 from '../../assets/images/adesivo vinil/adesivos(3).jpeg';
+import adesivo22 from '../../assets/images/adesivo vinil/adesivos(4).jpeg';
+import adesivo23 from '../../assets/images/adesivo vinil/adesivos(5).jpeg';
+import adesivo24 from '../../assets/images/adesivo vinil/adesivos(6).jpeg';
+import adesivo25 from '../../assets/images/adesivo vinil/adesivos(7).jpeg';
+import adesivo26 from '../../assets/images/adesivo vinil/adesivos(8).jpeg';
+
 //totens
 import totens01 from '../../assets/images/totens/foto01.jpg';
 import totens02 from '../../assets/images/totens/foto02.jpg';
@@ -214,6 +224,16 @@ const servicos = [
       adesivo15,
       adesivo16,
       adesivo17,
+
+      adesivo18,
+      adesivo19,
+      adesivo20,
+      adesivo21,
+      adesivo22,
+      adesivo23,
+      adesivo24,
+      adesivo25,
+      adesivo26,
     ],
   },
 ];
