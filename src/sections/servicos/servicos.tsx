@@ -76,6 +76,14 @@ import letreiro10 from '../../assets/images/letreiros/letreiro accenture.jpg';
 import letreiro11 from '../../assets/images/letreiros/letreiro.jpg';
 import letreiro12 from '../../assets/images/letreiros/letreiro preto.jpg';
 
+import letreiro13 from '../../assets/images/letreiros/accenture 03.jpeg';
+import letreiro14 from '../../assets/images/letreiros/letreiro (2).jpeg';
+import letreiro15 from '../../assets/images/letreiros/letreiro (3).jpeg';
+import letreiro16 from '../../assets/images/letreiros/letreiro (4).jpeg';
+import letreiro17 from '../../assets/images/letreiros/letreiro (5).jpeg';
+import letreiro18 from '../../assets/images/letreiros/letreiro (6).jpeg';
+import letreiro19 from '../../assets/images/letreiros/letreiro.jpeg';
+
 //Veiculos
 import veiculos01 from '../../assets/images/veiculos/veiculos01.jpeg';
 import veiculos02 from '../../assets/images/veiculos/veiculos02.jpeg';
@@ -157,11 +165,19 @@ const servicos = [
       letreiro6,
       letreiro7,
       letreiro12,
+      letreiro18,
       letreiro11,
       letreiro10,
       letreiro4,
       letreiro8,
       letreiro9,
+
+      letreiro14,
+      letreiro15,
+      letreiro16,
+      letreiro17,
+
+      letreiro19,
     ],
   },
   {

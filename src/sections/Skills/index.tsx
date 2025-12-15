@@ -1,5 +1,15 @@
 import Container from './styles';
 import ImageSlider from '../../components/ImageSlide/ImageSlider';
+//letreiros
+
+import letreiro4 from '../../assets/images/letreiros/accenture 03.jpeg';
+import letreiro6 from '../../assets/images/letreiros/letreiro (2).jpeg';
+import letreiro7 from '../../assets/images/letreiros/letreiro (3).jpeg';
+import letreiro8 from '../../assets/images/letreiros/letreiro (4).jpeg';
+import letreiro9 from '../../assets/images/letreiros/letreiro (5).jpeg';
+import letreiro10 from '../../assets/images/letreiros/letreiro (6).jpeg';
+
+import letreiro12 from '../../assets/images/letreiros/letreiro.jpeg';
 
 import letreiro1 from '../../assets/images/letreiros/letreiro01.jpg';
 import letreiro2 from '../../assets/images/letreiros/letreiro suzano.jpg';
@@ -38,6 +48,15 @@ export default function Skills() {
         acenture,
         letreiro1, // Use as variáveis importadas aqui
         letreiro2,
+
+        letreiro4,
+        letreiro6,
+        letreiro7,
+        letreiro8,
+        letreiro9,
+        letreiro10,
+
+        letreiro12,
       ],
     },
     {
