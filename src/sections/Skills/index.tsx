@@ -37,13 +37,14 @@ import placa03 from '../../assets/images/placa de obra/placa de obras.jpg';
 
 import placas01 from '../../assets/images/placas/placa01.jpg';
 import placas02 from '../../assets/images/placas/placa02.jpeg';
-//import placas03 from '../../assets/images/placas/placa03.jpeg';
+import placas11 from '../../assets/images/placas/placas11.jpeg';
 import placas05 from '../../assets/images/placas/placa05.jpg';
 
 import fachadas01 from '../../assets/images/fachadas/fachda01.jpg';
 import fachadas02 from '../../assets/images/fachadas/fachada02.jpeg';
 import fachadas03 from '../../assets/images/fachadas/fachda03.jpeg';
 import fachadas04 from '../../assets/images/fachadas/fachada04.jpg';
+import fachadas05 from '../../assets/images/fachadas/fachada05.jpeg';
 import { Link } from 'react-router-dom';
 
 export default function Skills() {
@@ -112,14 +113,14 @@ export default function Skills() {
       descricao:
         'Este é um termo genérico que engloba diversos tipos de placas com diferentes finalidades, como sinalização interna (direcional, informativa, de segurança), sinalização externa (comercial, institucional), placas de identificação, etc.',
       link: '/servico-placas',
-      imagens: [placas01, placas02, placas05],
+      imagens: [placas01, placas02, placas05, placas11],
     },
     {
       titulo: 'Fachadas',
       descricao:
         'Fachadas são a parte frontal de um edifício ou estabelecimento comercial, desempenhando um papel crucial na primeira impressão que o negócio causa. A sinalização de fachadas visa identificar, destacar e atrair clientes.',
       link: '/servico-fachadas',
-      imagens: [fachadas01, fachadas02, fachadas03, fachadas04],
+      imagens: [fachadas01, fachadas02, fachadas03, fachadas04, fachadas05],
     },
   ];
 

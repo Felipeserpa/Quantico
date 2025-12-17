@@ -42,6 +42,7 @@ import totens06 from '../../assets/images/totens/toten.jpg';
 import banner01 from '../../assets/images/banner/banner.jpg';
 import banner02 from '../../assets/images/banner/banner2.jpg';
 import banner03 from '../../assets/images/banner/banner3.jpg';
+import banner04 from '../../assets/images/banner/banner0.jpeg';
 
 //fachadas
 import fachadas01 from '../../assets/images/fachadas/fachda01.jpg';
@@ -50,6 +51,7 @@ import fachadas03 from '../../assets/images/fachadas/fachda03.jpeg';
 import fachada04 from '../../assets/images/fachadas/fachada22.jpg';
 import fachada05 from '../../assets/images/fachadas/fachada.jpg';
 import fachada06 from '../../assets/images/fachadas/fachada08.jpg';
+import fachada07 from '../../assets/images/fachadas/fachada05.jpeg';
 
 //Placa de obras
 import placadeobras01 from '../../assets/images/placa de obra/placa de obra fotoluminescente.jpg';
@@ -72,6 +74,7 @@ import placa07 from '../../assets/images/placas/placa07.jpg';
 import placa08 from '../../assets/images/placas/placa08.jpg';
 import placa09 from '../../assets/images/placas/placa09.jpg';
 import placa10 from '../../assets/images/placas/placa10.jpg';
+import placa11 from '../../assets/images/placas/placas11.jpeg';
 
 //Letreiros.
 import letreiro1 from '../../assets/images/letreiros/letreiro01.jpg';
@@ -126,11 +129,12 @@ const servicos = [
   },
   {
     nome: 'Banners',
-    fotos: [banner01, banner02, banner03],
+    fotos: [banner04, banner01, banner02, banner03],
   },
   {
     nome: 'Placas',
     fotos: [
+      placa11,
       placa06,
       placa07,
       placa08,
@@ -144,6 +148,7 @@ const servicos = [
   {
     nome: 'Fachadas',
     fotos: [
+      fachada07,
       fachadas01,
       fachadas02,
       placa03,
