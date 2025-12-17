@@ -15,7 +15,7 @@ import letreiro1 from '../../assets/images/letreiros/letreiro01.jpg';
 import letreiro2 from '../../assets/images/letreiros/letreiro suzano.jpg';
 import acenture from '../../assets/images/letreiros/accenture01.jpg';
 //adesivos
-import adesivo18 from '../../assets/images/adesivo vinil/adesivo (2).jpeg';
+import adesivo18 from '../../assets/images/adesivo vinil/adesivos2.jpeg';
 import adesivo19 from '../../assets/images/adesivo vinil/adesivos.jpeg';
 import adesivo20 from '../../assets/images/adesivo vinil/adesivo.jpeg';
 import adesivo21 from '../../assets/images/adesivo vinil/adesivos(3).jpeg';
@@ -27,6 +27,7 @@ import adesivo26 from '../../assets/images/adesivo vinil/adesivos(8).jpeg';
 import adesivo1 from '../../assets/images/adesivo vinil/adeisvo02.jpg';
 import adesivo2 from '../../assets/images/adesivo vinil/adesivo01.jpg';
 import adesivo3 from '../../assets/images/adesivo vinil/adesivo03.jpg';
+import adesivo16 from '../../assets/images/adesivo vinil/adesivos13.jpeg';
 
 import veiculos01 from '../../assets/images/veiculos/veiculos01.jpeg';
 import veiculos02 from '../../assets/images/veiculos/veiculos02.jpeg';
@@ -76,6 +77,7 @@ export default function Skills() {
       link: '/servico-adesivos',
       imagens: [
         // Array de imagens para Adesivos
+        adesivo16,
         adesivo1,
         adesivo3,
         adesivo2,
